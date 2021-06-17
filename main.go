@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"./fibonacho"
+	"github.com/davidlozac/fibonachos/fibonacho"
 )
 
 func main() {
